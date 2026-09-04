@@ -1,12 +1,4 @@
-Sure. I’ll update the **full README** with the report date as **5 September 2026** and keep the repository exactly as your requested **4 files**:
 
-```text
-AI-ML_Task1_DevSphere_Internship/
-├── ai_ml_week1.py
-├── Week_1_AI_ML_Report.pdf
-├── students.csv
-└── cleaned_students.csv
-```
 
 # 🤖 AI/ML Task 1 — DevSphere Internship
 
