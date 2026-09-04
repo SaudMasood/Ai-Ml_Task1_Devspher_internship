@@ -18,7 +18,7 @@
 | 🎯 Domain | **Artificial Intelligence & Machine Learning** |
 | 🏢 Internship | **DevSphere Internship Program** |
 | 📅 Week | **Week 01** |
-| 📆 Date | **31 August 2026** |
+| 📆 Date | **5 SEP 2026** |
 
 ---
 
