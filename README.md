@@ -1,50 +1,44 @@
-# AI/ML Task 1 — DevSphere Internship
+# 🤖 AI/ML Task 1 — DevSphere Internship
 
-This repository contains my Week 1 tasks completed during the DevSphere AI/ML Internship.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=DevSphere+AI%2FML+Internship;Week+1+Task;Artificial+Intelligence+%7C+Machine+Learning;Python+%7C+Pandas" alt="Typing Animation" />
+</p>
 
-## Week 1 Tasks
+<p align="center">
+  <b>🚀 Week 1 Internship Task — AI & Machine Learning</b>
+</p>
 
-### 1. Artificial Intelligence
+<p align="center">
+  <img src="https://img.shields.io/badge/Intern-Saud%20Masood-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Domain-AI%20%26%20ML-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Week-01-green?style=for-the-badge" />
+</p>
 
-Developed a basic rule-based Career Recommendation System using Python.
+---
 
-The system:
-- Takes user input
-- Uses if-elif-else decision-making
-- Provides a career recommendation
+## 👨‍💻 Intern Information
 
-### 2. Machine Learning
+| Information | Details |
+|---|---|
+| 👤 Intern | **Saud Masood** |
+| 🎯 Domain | **Artificial Intelligence & Machine Learning** |
+| 🏢 Internship | **DevSphere Internship Program** |
+| 📅 Week | **Week 01** |
+| 💻 Language | **Python** |
 
-Performed basic data analysis and cleaning using Python and Pandas.
+---
 
-The task includes:
-- Loading a CSV dataset
-- Displaying the first 5 rows
-- Checking dataset information
-- Generating summary statistics
-- Identifying missing values
-- Handling missing values
-- Removing duplicate records
-- Creating a cleaned dataset
+# 📌 Week 1 Tasks
 
-## Technologies Used
+This repository contains my completed **Week 1 AI/ML internship tasks**.
 
-- Python
-- Pandas
-- CSV
+The tasks focus on two fundamental areas:
 
-## Internship
+```text
+🤖 Artificial Intelligence
+        ↓
+Basic AI Decision-Making
 
-DevSphere Internship Program
-
-## Intern
-
-Saud Masood
-
-## Domain
-
-Artificial Intelligence & Machine Learning
-
-## Week
-
-Week 1
+📊 Machine Learning
+        ↓
+Python + Pandas Data Analysis
